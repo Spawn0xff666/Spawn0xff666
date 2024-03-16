@@ -1,10 +1,10 @@
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/yfv5WBKdu6"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 ```C++
 #include <iostream>
 #include <stdio.h>
-using namespace std::Okami 0xff666;
+using namespace std::Spawn 0xff666;
 
 int main() {
     char info[128] = "Mathematics and Computer science λ";
@@ -12,7 +12,7 @@ int main() {
     char *langs[5] = { "C", "C++", "C#", "R", "Assembly" };
     char tech[4] = { "UE4", "OpenGL", "Vulkan", "DirectX" };
     
-    // Server:   https://discord.gg/5dZPVytKnn;
+    // Server:   https://discord.gg/yfv5WBKdu6;
     // Telegram: https://t.me/mksDecode
     return 0; 
     }
@@ -28,46 +28,38 @@ int main() {
 <img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
 <p align="center">
-  <a href="https://github.com/Okami0xff666">
+  <a href="https://github.com/Spawn0xff666">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Okami0xff666&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+         src="https://github-readme-stats.vercel.app/api?username=Spawn0xff666&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
     
-  <a href="https://github.com/Okami0xff666">
+  <a href="https://github.com/Spawn0xff666">
     <img align="center"
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=Okami0xff666&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
-  <a href="https://github.com/Okami0xff666">
+  <a href="https://github.com/Spawn0xff666">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Okami0xff666&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Spawn0xff666&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
   </a>
-    <a href="https://github.com/Okami0xff666">
+    <a href="https://github.com/Spawn0xff666">
     <img align="center"
          height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=Okami0xff666&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+         src="https://activity-graph.herokuapp.com/graph?username=Spawn0xff666&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Okami0xff666">
+  <a href="https://github.com/Spawn0xff666">
     <img
       align="center"
       src="https://github-profile-trophy.vercel.app/?username=Okami0xff666&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
 </a>
 </p>
-
-- 👋 Hi, I’m @Spawn0xff666
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Spawn0xff666/Spawn0xff666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
